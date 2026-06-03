@@ -1,13 +1,134 @@
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi, I'm Ketan Patel
 
-![logo](https://github.com/ketanpatel11520-svg/Ketanpatel11520-svg/blob/main/Banner%20Github.png)
-<h1 align="center">Hi 👋, I'm Ketan Patel</h1>
-<h3 align="center">🚀 Software Developer | Full-Stack & AI Enthusiast | Building Impactful Digital Solutions</h3>
+<img src="./Banner Github.png" width="100%" alt="Ketan Patel Banner"/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ketan-patel-243887395/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ketan-patel-243887395/" height="30" width="40" /></a>
-<a href="https://instagram.com/_ketan_115" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_ketan_115" height="30" width="40" /></a>
+<h3 align="center">
+🚀 Software Developer | Full-Stack Developer | AI Enthusiast
+</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Software+Developer;Full+Stack+Developer;React+%7C+Next.js+%7C+Flutter;AI+Enthusiast;Building+Impactful+Digital+Solutions" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://media.giphy.com/media/66M5ZwJkTLYikvhrqZ/giphy.gif" width="400">
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ketanpatel-dev&label=Profile%20Views&style=for-the-badge" />
+</p>
+
+---
+
+## 💫 About Me
+
+```javascript
+const ketan = {
+  role: "Software Developer",
+  education: "Computer Science Student",
+  skills: ["React", "Next.js", "Flutter", "MongoDB", "C++", "Python"],
+  interests: ["AI", "Full Stack Development", "Open Source"],
+  currentlyBuilding: "Real-world Applications & Developer Tools",
+  motto: "Code • Build • Learn • Repeat"
+};
+```
+
+🔹 Passionate about building scalable web and mobile applications
+
+🔹 Exploring AI-powered solutions and modern technologies
+
+🔹 Strong interest in problem-solving and software engineering
+
+🔹 Always learning and creating impactful digital products
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+<a href="https://linkedin.com/in/ketan-patel-243887395">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="mailto:ketanpatel11520@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+<a href="https://instagram.com/_ketan_115">
+<img src="https://skillicons.dev/icons?i=instagram" />
+</a>
+</p>
+
+---
+
+## ⚡ Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp,c,python,javascript,react,nextjs,flutter,mongodb,nodejs,git,github,vscode&perline=6" />
+
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 📄 Resume Helper
+
+AI-powered resume builder designed to create professional ATS-friendly resumes.
+
+### 🤖 AI Projects
+
+Building intelligent tools using modern AI technologies and APIs.
+
+### 🌐 Full Stack Applications
+
+Developing scalable web applications using React, Next.js, and MongoDB.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ketanpatel-dev&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ketanpatel-dev&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=ketanpatel-dev&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=ketanpatel-dev&theme=tokyonight&no-frame=true&row=1&column=7" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ketanpatel-dev&theme=tokyo-night" />
+</p>
+
+---
+
+## 💡 Developer Quote
+
+> "Turning ideas into impactful digital solutions through clean code, creativity, and continuous learning."
+
+---
+
+<h3 align="center">
+⚡ Code • Create • Innovate ⚡
+</h3>
