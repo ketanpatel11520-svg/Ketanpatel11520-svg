@@ -1,5 +1,5 @@
 
-
+![logo](https://github.com/ketanpatel11520-svg/Ketanpatel11520-svg/blob/main/Banner%20Github.png)
 <h1 align="center">Hi 👋, I'm Ketan Patel</h1>
 <h3 align="center">🚀 Software Developer | Full-Stack & AI Enthusiast | Building Impactful Digital Solutions</h3>
 
